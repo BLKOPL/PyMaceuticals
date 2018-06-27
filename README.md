@@ -2,10 +2,11 @@
 Analysis of large pharmaceuticals database using  Python, Juptyter, Pandas, Matplotlib, and SciPy.
 
 Data Commentary:
-1)Capomulin is the most effective drug since it decreased tumor volume over time which effectively
-limited metastatic spread far better than the other two trialed medications and placebo.
 
-2)Ketapril seems to actually nurture % tumor volume growth which is alarming.
+1)Capomulin is the most effective drug since it decreased tumor volume over time which effectively
+limited metastatic spread far better than the other two trialed medications and placebo. These factors resulted in higher survival rate amongst mice on this particular treatment.
+
+2)Ketapril seems to actually nurture % tumor volume change which is alarming.
 
 3)Infubinol is most frightening of these treatments since survival rate ends up being the lowest over
 a period of 45 days, despite it showing positive results during the metastatic spread analysis.
