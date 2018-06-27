@@ -1,5 +1,5 @@
 # PyMaceuticals
-Analysis of large pharmaceuticals database using  Python, Juptyter, Pandas, Matplotlib, and SciPy.
+Analysis of large pharmaceuticals database using  Python, Jupyter, Pandas, Matplotlib, and SciPy.
 
 Data Commentary:
 
